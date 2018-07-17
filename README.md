@@ -1,1 +1,1 @@
-# EF6_MVC5_Demo
+# A simple movie search app implementing ASP.NET Core 2.1 Razor Pages and Sql Server Management Studio.  
